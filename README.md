@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Links for "RelMeAuth"
+### Links
 
-<a rel="nofollow me" href="https://furry.fail/@spikehidden">Mastodon</a>
+[Mastodon](https://spikey.biz/mastodon)
+[Link Tree](https://spikey.biz/link)
+[Twitch](https://spikey.biz/twitch)
+[Twitter](https://spikey.biz/twitter)
+[YouTube - Minecraft](https://spikey.biz/youtubemc)
+[YouTube - Gaming](https://spikey.biz/youtube)
