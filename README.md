@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 #### Links for "RelMeAuth"
 
-<a rel="me" href="https://furry.fail/@spikehidden">Mastodon</a>
+<a rel="nofollow me" href="https://furry.fail/@spikehidden">Mastodon</a>
