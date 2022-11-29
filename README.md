@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### Links
 
-[Mastodon](https://spikey.biz/mastodon)
-[Link Tree](https://spikey.biz/link)
-[Twitch](https://spikey.biz/twitch)
-[Twitter](https://spikey.biz/twitter)
-[YouTube - Minecraft](https://spikey.biz/youtubemc)
+[Mastodon](https://spikey.biz/mastodon)\
+[Link Tree](https://spikey.biz/link)\
+[Twitch](https://spikey.biz/twitch)\
+[Twitter](https://spikey.biz/twitter)\
+[YouTube - Minecraft](https://spikey.biz/youtubemc)\
 [YouTube - Gaming](https://spikey.biz/youtube)
