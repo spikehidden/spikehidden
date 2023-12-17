@@ -1,4 +1,8 @@
 # Teilnahmebedingungen für Twitch-Gewinnspiele
+```txt
+Diese Teilnahmebedingungen gelten, soweit auf diese verwiesen wurde, für Gewinnspiele welche auf den Twitch-Kanal
+mit der ID "93471965", welche zum Zeitpunkt der letzten Änderung den Benutzernamen "SpikeyDerFuchs" hatte, durchgeführt werden.
+```
 
 ## Veranstalter:
 Veranstalter dieses Gewinnspiels ist SpikeyDerFuchs/Spikehidden, nachfolgend "Veranstalter" genannt.
