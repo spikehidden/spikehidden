@@ -39,6 +39,7 @@ Dazu müsst ihr nur folgendes tun:
 - Sollte es mehr als 5 Teilnehmer geben wird ausgelost.
 - Die Spiele werden in der Reihenfolge der Teilnahme bzw. des Ziehens des Gewinners verteilt.
 - Es gelten zusätzlich: https://spikey.biz/social-terms
+- Diese Bedingungen können jederzeit ohne vorherige Ankündigung aktualisiert und geändert werden und dienen als Ergänzung der oben genannten. Daher gelten sämtliche Klauseln und Zusätze auch für diese Bedingungen.
 
 ## Anmerkung
 Bei weniger als 5 Teilnehmer verlose ich wahlrscheinlich den Rest nächstes Jahr.\
