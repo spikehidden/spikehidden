@@ -14,7 +14,7 @@ Dazu müsst ihr nur folgendes tun:
 
   </details>
 
-      Der Recap muss meinen Kanal (SpikeyDerFuchs) mit beinhalten.
+   - Der Recap muss meinen Kanal (SpikeyDerFuchs) mit beinhalten.
 
 2. Postet ihn auf eine unter 3. genannten Platformen.\
    Der Post muss folgendes enthalten:
