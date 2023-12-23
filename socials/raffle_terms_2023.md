@@ -10,7 +10,8 @@ Dazu müsst ihr nur folgendes tun:
 
   <details>
     <summary>Twitch Zuschauer Recap</summary>
-    ![twitch-recap-2023](https://github.com/spikehidden/spikehidden/assets/31257733/ff769283-dd31-40aa-93c6-3ee2f5cbf0f6)
+    
+![twitch-recap-2023](https://github.com/spikehidden/spikehidden/assets/31257733/ff769283-dd31-40aa-93c6-3ee2f5cbf0f6)
 
   </details>
 
