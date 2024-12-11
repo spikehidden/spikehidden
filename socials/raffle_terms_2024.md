@@ -3,15 +3,16 @@ Als Dank für eure Untersützung vergebe ich bis zu 5 Spiele, welche ihr aus ein
 Dazu müsst ihr nur folgendes tun:
 
 ## Teilnahme
-1. Ladet euren Twitch Recap 2023 herunter:
+1. Ladet euren Twitch Recap 2024 herunter:
    1. Geht auf https://www.twitch.tv/annual-recap
    2. Geht auf Zuschauer (Wenn nicht vorhanden, nicht zur Teilnahme gestattet.)
    3. Ladet den Recap herunter, welcher ungefär so ausieht:
 
   <details>
     <summary>Twitch Zuschauer Recap</summary>
+
     
-![twitch-recap-2023](https://github.com/spikehidden/spikehidden/assets/31257733/ff769283-dd31-40aa-93c6-3ee2f5cbf0f6)
+![twitch-recap-2024](https://github.com/user-attachments/assets/3b58d470-c98a-46c1-bdca-19a43be1866c)
 
   </details>
 
@@ -47,6 +48,7 @@ Bei weniger als 5 Teilnehmer verlose ich wahlrscheinlich den Rest nächstes Jahr
 Falls ihr euch unsicher seit, ob ich euren Post gesehen habe, ich teile ihn sobald ihn bemerkt habe.
 
 # Gameliste
+Einige Spiele in der Liste werden nur gebündelt vergeben (Vollversion + alle DLCs). Dies bedeutet, dass ihr alle in der Liste unten aufgeführten DLCs, wenn möglich, immer mit der Vollversion aus der Liste erhaltet.
 ## Steam
 | Game | Preis (UVP) | ID |
 | :------- | :---------------: | :-- | 
