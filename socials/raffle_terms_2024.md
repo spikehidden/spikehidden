@@ -41,6 +41,7 @@ Dazu müsst ihr nur folgendes tun:
 - Der Gewinner hat nach Bekanntgabe 14 Tage zeit sich das Spiel auszusuchen, falls es noch vorhanden ist.
 - Die Spiele werden in der Reihenfolge der Teilnahme bzw. des Ziehens des Gewinners verteilt.
 - Es gelten zusätzlich: https://spikey.biz/social-terms
+- Wird der Teilnahmepost vor dem 01.02.2025 gelöscht so erlischt die Teilnahmechance.
 - Diese Bedingungen können jederzeit ohne vorherige Ankündigung aktualisiert und geändert werden und dienen als Ergänzung der oben genannten. Daher gelten sämtliche Klauseln und Zusätze auch für diese Bedingungen.
 
 ## Anmerkung
