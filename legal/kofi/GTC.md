@@ -1,4 +1,4 @@
-# General Terms and Conditions (GTC) for Spikey der Fuchs – Digital Artworks (via Ko-fi)
+# General Terms and Conditions (GTC) for Spikey der Fuchs – Digital Works (via Ko-fi)
 
 ## 1. Scope of Application
 
